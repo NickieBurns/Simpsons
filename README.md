@@ -1,8 +1,8 @@
 # simpsons
 
-data munging, manipulation, and correlations using episode data from The Simpsons.  I have
-used the dataset provided by data-society on data.world.  The datasets are described
-as follows:
+Reports written in Python in the form of Jupyter Notebooks that include data munging, manipulation, 
+and correlations using episode data from The Simpsons using datasets provided by data-society on 
+data.world.  The datasets are described as follows:
 
 "Originally, this dataset was scraped by Tod Schenider for his post The Simpsons by the Data, for which he made the scraper 
 available on GitHub. Kaggle user William Cukierski used the scraper to upload the data set, which has been rehosted here.
