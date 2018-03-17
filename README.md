@@ -1,4 +1,4 @@
-# simpsons_datascience
+# simpsons
 
 data munging, manipulation, and correlations using data from The Simpsons
 
